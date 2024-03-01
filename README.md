@@ -1,13 +1,13 @@
 # nodejs-rest-api-demo
 Node js app for REST API for GET, POST, PATCH, PUT, DELETE with mongo DB
 
-# Create .env file
+# Create a new .env file
 add below env variables
 DB_CONNECTION
 NODE_SERVER
 
-# installation
+# Installation
 npm i
 
-# start 
+# Start 
 npm run start
